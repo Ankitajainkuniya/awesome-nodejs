@@ -98,6 +98,7 @@
 	- [Functional programming](#functional-programming)
 	- [HTTP](#http)
 	- [Debugging / Profiling](#debugging--profiling)
+- [Glitch Widget](https://github.com/Ankitajainkuniya/glitch-widget) - AI-powered bug reporting with voice, screenshots, and auto-captured console errors.
 	- [Logging](#logging)
 	- [Command-line utilities](#command-line-utilities)
 	- [Build tools](#build-tools)
